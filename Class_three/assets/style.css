@@ -1,0 +1,41 @@
+header {
+    color: white;
+    background-color: black;
+}
+
+.nav_menu ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+}
+
+.nav_menu ul li {
+    margin-right: 16px;
+}
+
+.nav_menu ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+}
+
+.nav_menu ul li:hover {
+    color: black;
+    background-color: white;
+}
+
+.nav_menu ul li:hover a {
+    color: black;
+}
+
+.nav_menu .logo {
+    background-color: #009688;
+}
+
+.search_button {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100%;
+}

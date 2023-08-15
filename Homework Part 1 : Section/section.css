@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.heading {
+    text-align: center;
+}
+
+.post_item {
+ width: 32.9%;
+ text-align: center;
+}
+
+.post_img {
+    width: 70%;
+}
+
+.posts {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+}

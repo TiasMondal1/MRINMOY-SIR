@@ -1,0 +1,31 @@
+on page SEO
+priority of css : !important >  id > class > tag
+
+if abve is same:
+    lower element has higher priority
+
+content -> padding -> border -> margin
+
+
+
+25.05.2023 (SELF)
+HTML stands for Hypertext Markup Language
+Hypertext means that we can link one webpage to another(single website or multiple)
+
+tags -> elements (open, close tags)
+
+->for validating websites : validator.w3c.org
+
+every tag has separate properties (attributes)
+
+HTML language has different selections for languages too like (en-US or en-GB)
+
+Meta tag will be inside head tag under HTML tag.
+
+
+moblile 560
+tab 799
+laptop 1024
+laptop large 2440
+
+Chapter 2 : HEAD element
